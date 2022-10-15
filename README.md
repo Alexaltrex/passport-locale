@@ -1,5 +1,5 @@
 # passport-locale
-* Demo: https://alexaltrex.github.io/ passport-locale/
+* Demo: https://alexaltrex.github.io/passport-locale/
 * Api: https://alexaltrex-common-api.herokuapp.com/passport-local/
 * Api (source code): https://github.com/Alexaltrex/alexaltrex-common-api/
 * Full-stack project with auth by session with Passport.js + passport-local.
